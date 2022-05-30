@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=1_reference.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1_reference.SchDoc|FileName=2_mb_conn.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_reference.SchDoc|FileName=3_esc_power_sw.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=1_reference.SchDoc|FileName=4_bat_input&power_monitor.SchDoc|SheetNumber=4
